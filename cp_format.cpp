@@ -549,15 +549,6 @@ const ll inf = 1e18;
 const ll ins = -1e18;
 
 void solution(){
-    ll a,b;
-    cin>>a>>b;
-    if((a+b)%2 == 0){
-        cout<<"Bob"<<endl;
-    }
-    else{
-        cout<<"Alice"<<endl;
-    }
-
 }
 
 
