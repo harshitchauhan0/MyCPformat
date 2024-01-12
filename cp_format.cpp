@@ -286,7 +286,7 @@ vii primeNums(int n)
     return ans;
 }
 
-void takein(vii arr){
+void takein(vii &arr){
     for(int i = 0;i<arr.size();i++)  cin>>arr[i];
 }
 
